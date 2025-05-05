@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-nomic
+sentence-transformers
+python-dotenv
+transformers
+torch
+einops
+chromadb
+faiss-cpu
+rank-bm25
+gradio
+FlagEmbedding
+ragas

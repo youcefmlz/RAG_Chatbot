@@ -1,0 +1,107 @@
+It is a conference hosted by the University of Sheffield’s Department of Computer Science, focusing on Speech and Language Technologies (SLT).
+The UK Speech 2023 conference.
+The conference focuses on computational processing of speech signals and written language, featuring keynote talks, student presentations, and discussions on technical and ethical topics.
+The Speech and Hearing (SpandH) Group and the Natural Language Processing (NLP) Group.
+Researchers, students, and practitioners interested in SLT. The registration includes access to all sessions, coffee breaks, Tuesday’s buffet lunch, and refreshments during poster sessions.
+He is a University Teaching Associate in the Department of Computer Science at the University of Sheffield and an Associate Fellow of Advance HE.
+His PhD research focuses on explainable graph neural networks in geospatial analysis.
+MSc in Computer Science – University of Nottingham and BSc in Electrical Engineering – Iowa State University
+Regent Court, Department of Computer Science, 211 Portobello, Sheffield, S1 4DP.
+He is a Lecturer in the Department of Computer Science at the University of Sheffield.
+His research includes speech and spoken language processing, audio-visual processing, video analysis, and video information retrieval.
+The Speech and Hearing (SpandH) Group.
+The Multimedia Analysis for Unsupervised Dubbing In Entertainment (MAUDIE) project was funded by InnovateUK (2018-2021), and Dr. Gotoh served as Co-Principal Investigator (Co-PI).
+The Statistical Summarization of Spoken Language (S3L) project, funded by EPSRC (2001-2005), focused on summarizing spoken language statistically.
+The conference will be held on 12th and 13th June 2023 at The Wave, a newly opened building at the University of Sheffield located at 2 Whitham Road, Sheffield, S10 2AH.
+Dr. Yoshi Gotoh research interests include audio-visual processing, video analysis, and video information retrieval.
+The STriTuVaD project is an EU-funded initiative that aims to use computer modeling and simulation to reduce the costs of clinical trials for new tuberculosis therapies. The project seeks to demonstrate the feasibility of in silico (computer-simulated) clinical trials to accelerate therapy development.
+The Speech and Hearing (SpandH) group and the Natural Language Processing (NLP) group contribute to SLT research at the University of Sheffield.
+The Athena SWAN Silver Award recognizes efforts to advance gender equality. The Department of Computer Science at Sheffield has expanded initiatives such as the Sheffield Women in Computing Students society, the Women+@DCS seminar series, and an equality, diversity, and inclusion (ED&I) committee covering race, neurodiversity, disability, and well-being.
+The CognoSpeakTM system, which aims to detect early signs of dementia through conversation analysis.Research on speech technology for tracking depression and anxiety.Sleep-disordered breathing analysis, using deep learning for snoring and obstructive sleep apnea (OSA) detection.The Sheffield COVID-19 Genomics Group, which sequences SARS-CoV-2 genomes for better disease understanding
+The university is leading the Pheme project, a European initiative that classifies online statements into speculation, controversy, misinformation, and disinformation. The project helps journalists, emergency services, and governments identify false information in real time.
+Bioinspired Machine Learning (influenced by biological systems) and Probabilistic Machine Learning (applied in personalized medicine and air pollution modeling) and Dimensionality Reduction (used in medical imaging and recommender systems)
+The Computer Vision group focuses on object detection, facial modeling, digital heritage, and immersive experiences in AR/VR.The Machine Learning group specializes in probabilistic modeling, reinforcement learning, and AI applications in medical imaging and cybersecurity.While both groups use AI, the Computer Vision group emphasizes visual data, whereas the Machine Learning group explores broader AI applications.
+Dr. Behzad Abdolmaleki (expert in cryptography, quantum security, and zero-knowledge proofs) or The Security of Advanced Systems research group or The Cybersecurity and Artificial Intelligence MSc program team
+The conference focuses on computational processing of speech signals and written language, including speech recognition, natural language processing (NLP), and ethical considerations in speech technologies.
+K-Now Ltd: Specializes in knowledge management and social media monitoring for emergency response.The Floow Ltd: Focuses on telematics-based motor insurance, providing driver behavior insights.
+Dr. Chenghua Lin is a member of the NLP research group at the University of Sheffield. He supervised the project "Generating Empathetic Dialogue Responses with Deep Learning Approaches", which was nominated for the Best Paper Award at INLG.
+The "Perceptual Constancy in Real-Room Listening by Humans and Machines" project investigates how human hearing adapts to different auditory environments and applies these insights to improve artificial listening devices.
+He is the Professor of Speech and Audio Technology, Director of the UKRI Centre for Doctoral Training in Speech and Language Technologies, and Head of the Speech and Hearing (SpandH) research group.
+The Russell Group consists of leading research-intensive universities in the UK, indicating high-quality research output, strong funding, and industry collaborations.
+Yes the University of Sheffield is part of the Russell Group
+The group works on object detection, human pose understanding, facial modeling, visual search, and digital heritage. They also develop FlameGPU software for agent-based modeling.
+Security of Advanced Systems research group: Works on privacy, cryptography, and system security.and Testing research group: Focuses on software security and vulnerability testing. also there are Cybersecurity and AI MSc program: Trains students in machine learning for cybersecurity and cryptographic techniques.
+The Sheffield COVID-19 Genomics Group sequenced SARS-CoV-2 genomes to understand the virus better. They used high-performance computing and Nanopore sequencing to analyze samples and contribute to the COG-UK consortium.
+Energy-efficient AI algorithms inspired by biology, Robotic systems mimicking biological processes, Research on honeybee behavior for decision-making AI, Collaborations with Sheffield Robotics and Opteran Technologies
+Offers a Centre for Doctoral Training (CDT) in SLT.Provides funding, training, and industry collaboration opportunities.Students engage in real-world projects with partners like Amazon and Google.
+Testing research group: Focuses on software testing, formal methods, and debugging.Security of Advanced Systems group: Deals with privacy, cryptography, and secure system design.
+Dr. Shuo Zhou (Machine Learning for medical imaging and neuroimaging). or Speech and Hearing research group (AI for speech-based cognitive assessment). or Machine Learning group (AI for personalized medicine and bioinformatics).
+Undergraduate: Covers broad computer science foundations, offers industrial placements. and Postgraduate: Focuses on specialized fields like Data Analytics and AI with advanced research opportunities.
+The Centre for Doctoral Training (CDT) in SLT, or the Natural Language Processing (NLP) research group or the Speech and Hearing (SpandH) group
+Funding from UKRI, Royal Academy of Engineering, and Leverhulme Trust.Dedicated fellowships for international researchers.Collaborative opportunities with Sheffield Teaching Hospitals and AMRC.Open-Ended & Critical Thinking Questions
+Applications include fact-checking systems for journalists, automated content moderation on social media, and government response tools for crisis management.
+Professor Oliveto specializes in hyper-heuristics, evolutionary algorithms, and artificial immune systems. He is a member of the Foundations of Computation and Testing research groups.
+The Brains on Board project aims to understand honeybee navigation and cognition to replicate these behaviors in flying robotic platforms. This contributes to robotics, artificial intelligence, and insect neuroscience.
+DrugBAN is an AI tool developed by the University of Sheffield in collaboration with AstraZeneca. It is designed to reduce costs and accelerate the drug discovery process by predicting drug-protein interactions.
+The group is led by Professor Thomas Hain, along with Professor Jon Barker, Professor Guy Brown, Dr. Heidi Christensen, and other researchers.
+The department joined the Amazon Alexa Fellowship in 2018. 
+supports PhD and postdoctoral students working on conversational AI. It provides funding, mentoring, and integration of Alexa tools in research.
+Professor Thomas Hain.
+It aims to develop neuromorphic control systems for flying robots, inspired by honeybee cognition.
+Companies like IBM, Amazon, Cisco, and VoiceBase.
+It promotes diversity in computing by increasing opportunities for underrepresented students.
+Dr. Shaoxiong Sun (Health data science & patient monitoring) or Speech and Hearing Research Group (AI for cognitive health) or CITCoM Project (AI model verification in healthcare)
+Offers career workshops, employer networking events, and CV writing support.
+The language is endangered, with only 33,000 speakers remaining.PhD student Xutan Peng is using Natural Language Processing (NLP) to accelerate textbook production for teaching Gyalrong in schools.
+Professor McMinn specializes in automated software testing and verification. He teaches Software Testing and Analysis and supervises PhD students.
+Dr. Olakunle Olayinka (Cybersecurity and Digital Forensics).or the Security of Advanced Systems Group (research on cryptography and system security).
+75 undergraduate scholarships (£10,000 tuition discount). 125 postgraduate taught scholarships (£5,000 each).Various research grants (e.g., EPSRC, Amazon Research Award).
+Research on Trustworthy Autonomous Systems and Human-Robot Collaboration.Digital twin technology for predicting real-world system failures.
+It is located in Regent Court, 211 Portobello, Sheffield, S1 4DP.
+It was ranked number one in the Russell Group for student satisfaction.
+It focuses on causal inference for testing computational models, ensuring AI systems are reliable.
+A placement year where students gain real-world experience in a company, boosting employability.
+FOX Group: Focuses on formal methods, logic, and theoretical computing.
+Explore Sheffield, especially the Peak District.Prepare for a walkable city.Take advantage of research opportunities.
+Weston Park Museum for history.Street art, music venues, and galleries for artistic expression.
+Dr. Mangan studies bioinspired machine intelligence by modeling insect navigation behaviors to develop autonomous robotic systems.
+PhD applicants must apply online
+PhD applicants must provide academic references, degree certificates and transcripts, a CV, and a statement of suitability.
+Provides funding and support for research in digital twins, AI safety, and machine learning.
+The "ActiveAI" project is co-led by Professor Marshall and funded by EPSRC with a total amount of £953,584 (from November 2019 to October 2024).
+The "Brains on Board" project focuses on neuromorphic control of flying robots, inspired by honeybee cognition and navigation.
+Dr. Heidi Christensen: FDM everywoman in Technology Award (Academic Category).Maksim Zhukovskii (FOX Group): Best Paper Award at the European Symposium on Algorithms.
+The Diamond Building: Houses high-spec VR, GPU clusters, and AI labs.Access to Sheffield’s High-Performance Computing (HPC) resources.JADE computing system for deep learning and AI research.
+Because of its proximity to the Peak District and numerous outdoor activities like hiking and cycling.
+It is an event celebrating the contributions of women and non-binary individuals in computer science, featuring networking, talks, and a poster competition.
+Charuduth Bagha, a BSc Computer Science student with a Year in Industry.
+It visualizes pollution data to make its impact more understandable and relatable to the public.
+GATE (General Architecture for Text Engineering).
+It equated air pollution exposure to the number of cigarettes smoked to highlight health risks.
+It was used in news, digital publishing (BBC), and customer feedback analysis.
+It received  over 3.2 million users in a month
+Ed, Josh, and Freddy created the Popcat.click’ project
+The project is based on the popular meme of Popcat, which involves clicking on an image of a cat to generate a popping sound.
+INTERSPEECH 2020, with a talk titled "Talking with Robots: Are We Nearly There Yet?".
+He won PayPal’s Global Innovation Tournament, pitching an idea that is now being developed.
+She developed a cybersecurity lesson plan featuring a dinosaur-themed narrative to make the subject engaging.
+The University of Sheffield offers Computer Science, Software Engineering, and Artificial Intelligence as undergraduate degrees. These can be pursued as three-year BSc/BEng or four-year MComp/MEng programs, with an option for an industrial placement year for hands-on experience.
+BSc/BEng in Computer Science, Software Engineering, and Artificial Intelligence. and MComp/MEng options available, with industrial placement year.
+A-Level: AAB, including Mathematics. and IB: 36 points, including Higher Level Maths. or Equivalent qualifications accepted.
+Yes, an industrial placement is available for BSc, BEng, MComp, and MEng degrees.
+Careers in software development, AI, data science, cybersecurity, and academia.Graduates work at Amazon, Google, IBM, Microsoft, and startups.
+Sheffield Computing Society (COMPSOC). and HackSheffield (Hackathons, coding events). and Women in Tech, AI Club, and Robotics Society
+1-year program covering machine learning, deep learning, reinforcement learning, and AI ethics. and Includes industry projects and research dissertation.
+Text generation, misinformation detection, sentiment analysis, machine translation, and fact verification.
+Works on autonomous navigation, swarm robotics, and AI-driven robotic learning.
+GATE (General Architecture for Text Engineering) is an open-source NLP framework used for text mining, sentiment analysis, and misinformation detection.
+Research in multimodal learning, reinforcement learning, deep generative models, and AI for medical imaging. Applications include speech recognition, computer vision, and autonomous systems.
+Urban Flows Observatory uses AI for pollution and energy consumption analysis.AI applied to smart energy grids, climate modeling, and waste reduction.
+PHEME Project develops AI models for detecting fake news and misinformation.Research in fact-checking, stance detection, and NLP-based credibility analysis.
+Works with Google, Amazon, IBM, NVIDIA, and NHS on AI projects.Collaborates with UK government and tech startups for AI applications.
+Amazon, IBM, Microsoft, Rolls-Royce, and local AI startups offer placements.Internships available in machine learning, robotics, and cybersecurity.
+Funded by UKRI, EPSRC, Horizon 2020, and industry partners.Grants for AI in healthcare, robotics, and cybersecurity.
+Offers PhD programs, AI research internships, and industry collaborations.Provides access to high-performance computing (HPC) and AI research groups.
+GATE NLP framework used by BBC, Oracle, and EU misinformation monitoring projects.AI-driven medical imaging tools applied in NHS and biotech firms.Speech recognition models used in healthcare and accessibility technologies.
+
+
