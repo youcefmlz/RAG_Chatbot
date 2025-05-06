@@ -3,6 +3,8 @@
 
 ![Chatbot UI](assets/UI.png)
 
+
+
 ## 📌 Overview
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot designed to answer **research and computer science-related queries** about **the University of Sheffield**. The system integrates **hybrid document retrieval, reranking, and LLM-based answer generation and refinement** to deliver accurate, relevant, and well-formulated responses.
@@ -16,6 +18,8 @@ The chatbot is built using:
 ---
 
 ## ⚙️ How It Works
+### Architecture Overview
+![Chatbot UI](assets/indepth_diagram.png)
 
 ### 1️⃣ User Query Processing
 - Handles **general questions** (e.g., greetings) with predefined responses.  
