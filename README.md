@@ -1,11 +1,11 @@
 
-# 🔍 RAG-Based Chatbot for the University of Sheffield
+# RAG-Based Chatbot for the University of Sheffield
 
 ![Chatbot UI](assets/UI.png)
 
 
 
-## 📌 Overview
+## Overview
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot designed to answer **research and computer science-related queries** about **the University of Sheffield**. The system integrates **hybrid document retrieval, reranking, and LLM-based answer generation and refinement** to deliver accurate, relevant, and well-formulated responses.
 
@@ -17,7 +17,7 @@ The chatbot is built using:
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 ### Architecture Overview
 ![Chatbot UI](assets/indepth_diagram.png)
 
@@ -27,10 +27,10 @@ The chatbot is built using:
 
 ### 2️⃣ Document Retrieval and Reranking
 - Retrieval pipeline includes:
-  - ✅ **BM25** (keyword-based)
-  - ✅ **Chroma** (vector similarity)
-  - ✅ **Ensemble Retrieval** (equal weighting of BM25 + Chroma)
-  - ✅ **FlagReranker** (filters irrelevant docs, discards those with score < 0.2)
+  -  **BM25** (keyword-based)
+  -  **Chroma** (vector similarity)
+  -  **Ensemble Retrieval** (equal weighting of BM25 + Chroma)
+  -  **FlagReranker** (filters irrelevant docs, discards those with score < 0.2)
 
 ### 3️⃣ Answer Generation (LLM-Powered)
 - Uses **Llama 3.2 (3B Instruct FP16)** with a strict instruction to **only answer using provided context**.  
@@ -42,49 +42,49 @@ The chatbot is built using:
   - Avoid unsupported content
 
 ### 5️⃣ Gradio UI for User Interaction
-- 💬 **Real-time Chat Interface**
-- 📂 **Expandable Retrieved Documents**
-- ⏱ **Streaming Word-by-Word Responses**
+-  **Real-time Chat Interface**
+-  **Expandable Retrieved Documents**
+-  **Streaming Word-by-Word Responses**
 
 ---
 
-## 🛠 Installation and Setup
+## Installation and Setup
 
-### ✅ Install Dependencies
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 🔐 Set API Key for Trivy Web Search (used in Evaluation)
+### Set API Key for Trivy Web Search (used in Evaluation)
 ```python
 _set_env("TAVILY_API_KEY")
 ```
 
-### 📥 Download and Serve Llama 3.2 (3B Instruct FP16)
+### Download and Serve Llama 3.2 (3B Instruct FP16)
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 nohup ollama serve > /dev/null 2>&1 &
 ollama pull llama3.2:3b-instruct-fp16 > /dev/null 2>&1 &
 ```
 
-### 📂 Extract and Process Research Documents
+### Extract and Process Research Documents
 ```python
 with zipfile.ZipFile("path_to_data_zip_file", "r") as zip_ref:
     zip_ref.extractall("parsed_data")
 ```
 
-### 🚀 Run the Chatbot
+### Run the Chatbot
 ```python
 demo.launch(share=True, debug=True)
 ```
 
 ---
 
-## 📊 Evaluation of the RAG Chatbot vs. Baseline Models
+## Evaluation of the RAG Chatbot vs. Baseline Models
 
 This framework conducts an in-depth evaluation of the RAG chatbot compared to traditional and baseline systems using **105 test queries**.
 
-### ✅ Evaluation Components:
+### Evaluation Components:
 
 #### 1. Retrieval Evaluation
 - Compared: **RAG**, **TF-IDF**, **BM25**
@@ -117,14 +117,14 @@ This framework conducts an in-depth evaluation of the RAG chatbot compared to tr
 
 ---
 
-## 📈 Visual Outputs
-- 📊 Bar Charts for: Average scores, hit rates, response times
-- 📉 Histograms: Hallucination score distributions
-- 🧠 Side-by-side Retrieval Judgments (LLM preference counts)
+## Visual Outputs
+-  Bar Charts for: Average scores, hit rates, response times
+-  Histograms: Hallucination score distributions
+-  Side-by-side Retrieval Judgments (LLM preference counts)
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates a practical implementation of a robust and explainable RAG chatbot designed to answer domain-specific queries using context-grounded LLM responses.  
 With extensive evaluation pipelines and a clean user interface, this system is **well-suited for research discovery, academic chatbots, and institutional support bots**.
