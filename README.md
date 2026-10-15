@@ -3,6 +3,17 @@
 
 ![Chatbot UI](assets/UI.png)
 
+> **New: [Cohere version →](cohere_rag/)** The same chatbot rebuilt on Cohere Embed, Rerank and Command A+, with
+> citations on every answer. Scored against this original pipeline with the same judge on the same 104 test questions:
+>
+> | | Original (Llama 3.2 3B) | Cohere (Command A+) |
+> |---|---|---|
+> | Average answer score (1-5) | 4.64 | **4.91** |
+> | Answers scored ≥ 4 | 95.2% | **99.0%** |
+> | Answers with citations | – | **96 / 105** |
+>
+> Method and caveats: [cohere_rag/README.md](cohere_rag/README.md)
+
 
 
 ## Overview
