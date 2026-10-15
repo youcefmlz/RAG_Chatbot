@@ -1,0 +1,14 @@
+cohere>=7.2
+numpy
+rank-bm25
+python-dotenv
+pandas
+tqdm
+# RAGAS 0.2 needs the LangChain 0.3 stack (it is also the version used for the original evaluation)
+ragas==0.2.15
+langchain==0.3.*
+langchain-core==0.3.*
+langchain-community==0.3.*
+langchain-ollama==0.3.*
+langchain-openai==0.3.*
+langchain-text-splitters==0.3.*
